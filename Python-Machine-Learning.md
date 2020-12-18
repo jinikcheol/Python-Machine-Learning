@@ -1,6 +1,6 @@
 # Python-Machine-Learning
 
-#머신러닝의 세 가지 유형
+머신러닝의 세 가지 유형
 1.지도학습(Supervised Learning)
 -분류 레이블 예측을 위한 분류 모델(Classification)
 -연속형 결과 예측을 위한 회귀분석(Regression)
